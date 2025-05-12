@@ -772,6 +772,7 @@
     .left-content img {
         width: 100%;
         border-radius: unset;
+        object-fit : cover;
     }
 
     .right-content {
